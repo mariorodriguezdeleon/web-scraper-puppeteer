@@ -1,0 +1,24 @@
+{
+  "name": "web-scraper-puppeteer",
+  "version": "1.0.0",
+  "description": "web-site scraper built using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariorodriguezdeleon/web-scraper-puppeteer.git"
+  },
+  "author": "Mario Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariorodriguezdeleon/web-scraper-puppeteer/issues"
+  },
+  "homepage": "https://github.com/mariorodriguezdeleon/web-scraper-puppeteer#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.5.1"
+  }
+}
